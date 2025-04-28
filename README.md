@@ -1,2 +1,2 @@
-# Python-Work-4
-This is my 4th day of work in Python
+# Python-Work-from Basics
+This is my 4 days of work in Python
